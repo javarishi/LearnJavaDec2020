@@ -1,0 +1,18 @@
+
+
+1. Driver - initialize - 
+	- Download Jar File - https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.19
+	- Initialize Driver
+	
+2. Manage Driver - to get a Connection
+	- Register this Driver in Your ClassLoader 
+
+3. Make a connection
+	- User Name and Password 
+	- URL - 
+4. Create a Statement - Query - against DB
+
+5. Manage Result - ResultSet
+
+6. SQL Exception
+
